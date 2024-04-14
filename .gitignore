@@ -1,2 +1,4 @@
 /ml/
 .vscode
+*.npy
+*.csv
